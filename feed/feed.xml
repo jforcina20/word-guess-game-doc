@@ -21,6 +21,7 @@
 &lt;h2 id=&quot;frontend&quot; tabindex=&quot;-1&quot;&gt;Frontend &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/word-guess-game-doc/posts/week4/#frontend&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;h2 id=&quot;backend&quot; tabindex=&quot;-1&quot;&gt;Backend &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/word-guess-game-doc/posts/week4/#backend&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;h2 id=&quot;api&quot; tabindex=&quot;-1&quot;&gt;API &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/word-guess-game-doc/posts/week4/#api&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;The API team focused this week on starting the Swagger/OpenAPI spec document for the project. Working off the demo PetStore example in the Swagger Editor and the OpenAPI specification guide, we were able to complete the documentation for the getWord API. This entry contains the request body, responses, and is connected to the word-guess-game Vercel application. It is able to make requests and display the responses. The file was exported as a YAML file and is stored in the &lt;a href=&quot;https://github.com/jforcina20/word-guessing-game/tree/main/documentation&quot;&gt;/documentation folder&lt;/a&gt; of the word-guess-game repo.&lt;/p&gt;
 </content>
 	</entry>
 	
