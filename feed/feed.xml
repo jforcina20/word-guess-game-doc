@@ -21,6 +21,8 @@
 &lt;h2 id=&quot;frontend&quot; tabindex=&quot;-1&quot;&gt;Frontend &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/word-guess-game-doc/posts/week5/#frontend&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;h2 id=&quot;backend&quot; tabindex=&quot;-1&quot;&gt;Backend &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/word-guess-game-doc/posts/week5/#backend&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;h2 id=&quot;api&quot; tabindex=&quot;-1&quot;&gt;API &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/word-guess-game-doc/posts/week5/#api&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Started using &lt;a href=&quot;http://stoplight.io/&quot;&gt;Stoplight.io&lt;/a&gt; to make the OpenAPI document for the getWord endpoint. Built the schema for Word responses and connected the document to the live vercel server to send requests and recieve responses. The UI element of building this document has made the process easier and allowed us to add more information than the one built with Swagger Editor.&lt;/p&gt;
+&lt;p&gt;View the Stoplight documentation &lt;a href=&quot;https://402-groupc.stoplight.io/docs/word-guessing-game/YXBpOjUyODc4MzI1-word-guessing-game-api&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </content>
 	</entry>
 	
